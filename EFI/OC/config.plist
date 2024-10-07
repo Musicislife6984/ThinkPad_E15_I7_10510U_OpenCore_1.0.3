@@ -1153,17 +1153,17 @@
 				<key>Arguments</key>
 				<string></string>
 				<key>Auxiliary</key>
-				<false/>
+				<true/>
 				<key>Comment</key>
-				<string>Not signed for security reasons</string>
+				<string></string>
 				<key>Enabled</key>
 				<false/>
 				<key>Flavour</key>
-				<string>Auto</string>
+				<string>Windows</string>
 				<key>Name</key>
-				<string>CustomOS</string>
+				<string>WindowsOS</string>
 				<key>Path</key>
-				<string>PciRoot(0x0)/Pci(0x1,0x1)/Pci(0x0,0x0)/NVMe(0x1,11-22-33-44-55-66-77-88)/HD(1,GPT,00000000-0000-0000-0000-000000000000,0x800,0x64000)/\EFI\BOOT\BOOTX64.EFI</string>
+				<string>PciRoot(0x0)/Pci(0x1D,0x4)/Pci(0x0,0x0)/NVMe(0x1,79-A2-00-01-82-38-25-00)/HD(1,GPT,723F85E4-8C54-4846-9F21-A800BEE1B37E,0x800,0x32000) /\EFI/Microsoft/Boot/bootmgfw-orig.efi</string>
 				<key>TextMode</key>
 				<false/>
 			</dict>
@@ -1483,7 +1483,7 @@
 				<key>Comment</key>
 				<string>AudioDxe.efi</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>LoadEarly</key>
 				<false/>
 				<key>Path</key>
