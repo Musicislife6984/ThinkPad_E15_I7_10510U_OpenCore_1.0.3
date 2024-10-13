@@ -1479,11 +1479,11 @@
 			</dict>
 			<dict>
 				<key>Arguments</key>
-				<string></string>
+				<string>--restore-nosnoop</string>
 				<key>Comment</key>
 				<string>AudioDxe.efi</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>LoadEarly</key>
 				<false/>
 				<key>Path</key>
