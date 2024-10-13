@@ -1,6 +1,14 @@
 # ThinkPad E15 i7 10510U OpenCore 1.0.1
 Open Core 1.0.1 EFI for ThinkPad E15 I7 10510U
 
+EFI Folder is for Ventura<br>
+Sonoma/EFI is for Sonoma with BCM94630NG Kexts
+*Must run OpenCore-Patcher <br>
+*Post-install Root Patch
+*Start Root Patching
+
+
+
 Included Drivers for Dual Boot with Windows 11 <br>  
 * Drivers included for the BCM94360NG network card for Plug and Play Ventura <br>  
 Install drivers in the folloing order <br>  
