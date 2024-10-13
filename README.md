@@ -3,7 +3,7 @@ Open Core 1.0.1 EFI for ThinkPad E15 I7 10510U
 
 EFI Folder is for Ventura<br>
 Sonoma/EFI is for Sonoma with BCM94630NG Kexts<br>  
-* Must run OpenCore-Patcher
+* Must run OpenCore-Patcher https://github.com/dortania/OpenCore-Legacy-Patcher/releases
 * Post-install Root Patch
 * Start Root Patching
 
