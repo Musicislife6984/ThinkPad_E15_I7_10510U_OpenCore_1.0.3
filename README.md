@@ -1,9 +1,9 @@
 # ThinkPad E15 i7 10510U OpenCore 1.0.1
 Open Core 1.0.1 EFI for ThinkPad E15 I7 10510U
 
-EFI Folder is for Ventura<br>
-Sonoma/EFI is for Sonoma with BCM94630NG Kexts<br>  
-* Must run OpenCore-Patcher https://github.com/dortania/OpenCore-Legacy-Patcher/releases
+EFI Folder works up to Ventura with Plug and Play WiFi using BCM94360NG<br>
+Sonoma/EFI is for Sonoma with BCM94630NG Kexts<br>
+* Inorder to patch Broadcom WiFi in Sonoma, you must run OpenCore-Patcher https://github.com/dortania/OpenCore-Legacy-Patcher/releases
 * Post-install Root Patch
 * Start Root Patching
 
