@@ -2,7 +2,7 @@
 Open Core 1.0.3 EFI for ThinkPad E15 I7 10510U
 
 Ventura EFI with Plug and Play WiFi using BCM94360NG<br>
-Sonoma EFI is with BCM94630NG Kexts<br>
+Sonoma/Sequioa EFI is with BCM94630NG Kexts<br>
 * In order to patch Broadcom WiFi in Sonoma/Sequoia, you must run OpenCore-Patcher https://github.com/dortania/OpenCore-Legacy-Patcher/releases
 * Post-install Root Patch
 * Start Root Patching
@@ -10,7 +10,7 @@ Sonoma EFI is with BCM94630NG Kexts<br>
 
 
 Included Drivers for Dual Boot with Windows 11 <br>  
-* Drivers included for the BCM94360NG network card for Plug and Play Ventura <br>  
+* Drivers included for the BCM94360NG network card for Plug and Play Ventura,Sonoma, and Sequioa <br>  
 Install drivers in the folloing order <br>  
 
 
