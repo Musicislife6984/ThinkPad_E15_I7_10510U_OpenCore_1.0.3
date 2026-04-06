@@ -1,4 +1,4 @@
-# ThinkPad E15 i7 10510U OpenCore 1.0.3
+# ThinkPad E15 i7 10510U OpenCore 1.0.5
 Open Core 1.0.3 EFI for ThinkPad E15 I7 10510U
 
 Ventura EFI with Plug and Play WiFi using BCM94360NG<br>
